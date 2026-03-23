@@ -2,9 +2,9 @@
 
 ## Overview ##
 
-I missed participating in the [picoCTF 2026](www.picoctf.org) competition this year for the first time in four years due to other commitments, which ran from the 10'th to 20'th of March 2026. 
+I missed participating in the [picoCTF 2026](www.picoctf.org) competition this year, which ran from the 10'th to 20'th of March 2026. The first time in four years I haven't competed as an individual in the Global category, due to prior commitments,  
 
-As a result I've chosen to work through the competition challenges in my own time outside of the event, with this a write up of my progress and the challenges solved (without assistance or other write ups).
+As a result I've chosen to work through the competition challenges in my own time outside of the event, with this a write up of my progress and the challenges solved in doing so (without assistance or help of other write ups - just like during the competition).
 
 ## Pull Requests ##
 
@@ -21,16 +21,16 @@ Did not compete this year :(
 As time permits I'll be adding further individual challenge write ups for all those marked as `(Solved)`. Additionally there may be the odd challenge that I failed to solve but may want to document my progress, marked `(Unsolved - Progress Writeup)`.
 
 <details>
-  <summary>Binary Exploitation (1 solutions)</summary>
+  <summary>Binary Exploitation (4 solutions)</summary>
 
 * **[Heap Havoc](Binary%20Exploitation/Heap%20Havoc/Heap%20Havoc.md) (Solved)**
 * Pizza Router (Unsolved)
-* Echo Escape 1 (Unsolved)
+* **[Echo Escape 1](Binary%20Exploitation/Echo%20Escape%201/Echo%20Escape%201.md) (Solved)**
 * tea-cash (Unsolved)
 * offset-cycleV2 (Unsolved)
-* Echo Escape 2 (Unsolved)
+* **[Echo Escape 2](Binary%20Exploitation/Echo%20Escape%202/Echo%20Escape%202.md) (Solved)**
 * offset-cycle (Unsolved)
-* Quizploit (Unsolved) 
+* **[Quizploit](Binary%20Exploitation/Quizploit/Quizploit.md) (Solved)**
 
 </details>
 
@@ -69,4 +69,4 @@ As time permits I'll be adding further individual challenge write ups for all th
 
 </details>
 
-Full solutions to the challenges are provided in the write ups, however the actual flag values are witheld.
+Full solutions to the challenges are provided in the write ups, however the actual flag values are withheld.
