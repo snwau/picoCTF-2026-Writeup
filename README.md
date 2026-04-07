@@ -23,14 +23,14 @@ As time permits I'll be adding further individual challenge write ups for all th
 <details>
   <summary>Binary Exploitation (7 solutions)</summary>
 
-* **[Heap Havoc](Binary%20Exploitation/Heap%20Havoc/Heap%20Havoc.md) (Solved)**
-* Pizza Router (Unsolved)
 * **[Echo Escape 1](Binary%20Exploitation/Echo%20Escape%201/Echo%20Escape%201.md) (Solved)**
-* **[tea-cash](Binary%20Exploitation/tea-cash/tea-cash.md) (Solved)**
-* **[offset-cycleV2](Binary%20Exploitation/offset-cycleV2/offset-cycleV2.md) (Solved)**
 * **[Echo Escape 2](Binary%20Exploitation/Echo%20Escape%202/Echo%20Escape%202.md) (Solved)**
+* **[Heap Havoc](Binary%20Exploitation/Heap%20Havoc/Heap%20Havoc.md) (Solved)**
 * **[offset-cycle](Binary%20Exploitation/offset-cycle/offset-cycle.md) (Solved)**
+* **[offset-cycleV2](Binary%20Exploitation/offset-cycleV2/offset-cycleV2.md) (Solved)**
+* Pizza Router (Unsolved)
 * **[Quizploit](Binary%20Exploitation/Quizploit/Quizploit.md) (Solved)**
+* **[tea-cash](Binary%20Exploitation/tea-cash/tea-cash.md) (Solved)**
 
 </details>
 
@@ -56,9 +56,19 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (0 solutions)</summary>
+  <summary>Reverse Engineering (2 solutions)</summary>
 
-* ? (Unsolved)
+* Autorev 1 (Unsolved)
+* Binary Instruments 3 (Unsolved)
+* Binary Instruments 4 (Unsolved)
+* Bypass Me (Unsolved)
+* **[Gatekeeper](Reverse%20Engineering/Gatekeeper/Gatekeeper.md) (Solved)**
+* **[Hidden Cipher 1](Reverse%20Engineering/Hidden%20Cipher%201/Hidden%20Cipher%201.md) (Solved)**
+* Hidden Cipher 2 (Unsolved)
+* JITFP (Unsolved)
+* Secure Database Password (Unsolved)
+* Silent Stream (Unsolved)
+* The Add/On Trap (Unsolved)
 
 </details>
 
