@@ -56,7 +56,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (2 solutions)</summary>
+  <summary>Reverse Engineering (3 solutions)</summary>
 
 * Autorev 1 (Unsolved)
 * Binary Instruments 3 (Unsolved)
@@ -64,7 +64,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * Bypass Me (Unsolved)
 * **[Gatekeeper](Reverse%20Engineering/Gatekeeper/Gatekeeper.md) (Solved)**
 * **[Hidden Cipher 1](Reverse%20Engineering/Hidden%20Cipher%201/Hidden%20Cipher%201.md) (Solved)**
-* Hidden Cipher 2 (Unsolved)
+* **[Hidden Cipher 2](Reverse%20Engineering/Hidden%20Cipher%202/Hidden%20Cipher%202.md) (Solved)**
 * JITFP (Unsolved)
 * Secure Database Password (Unsolved)
 * Silent Stream (Unsolved)
