@@ -22,7 +22,7 @@ Downloading and extracting the challenge archive:
       inflating: hiddencipher2           
      extracting: flag.txt                
 
-Inspecting the challenge binary strings it was determined this binary was not packed like previous challenge in the series ([Hidden Cipher 1](../Hidden%20Cipher%201/Hidden%20Cipher%201.md).
+Inspecting the challenge binary strings it was determined this binary was not packed like previous challenge in the series ([Hidden Cipher 1](../Hidden%20Cipher%201/Hidden%20Cipher%201.md)).
 
 The challenge binary couldn't be run on my machine locally out of the box due to a `libc` mismatch, but I didn't bother trying to correct this and worked on the challenge server where required.
 
