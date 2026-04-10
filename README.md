@@ -56,7 +56,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (5 solutions)</summary>
+  <summary>Reverse Engineering (6 solutions)</summary>
 
 * Autorev 1 (Unsolved)
 * Binary Instruments 3 (Unsolved)
@@ -68,7 +68,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * JITFP (Unsolved)
 * **[Secure Database Password](Reverse%20Engineering/Secure%20Database%20Password/Secure%20Database%20Password.md) (Solved)**
 * Silent Stream (Unsolved)
-* The Add/On Trap (Unsolved)
+* **[The Add/On Trap](Reverse%20Engineering/The%20Add-On%20Trap/The%20Add-On%20Trap.md) (Solved)**
 
 </details>
 
