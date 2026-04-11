@@ -67,7 +67,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * **[Hidden Cipher 2](Reverse%20Engineering/Hidden%20Cipher%202/Hidden%20Cipher%202.md) (Solved)**
 * JITFP (Unsolved)
 * **[Secure Password Database](Reverse%20Engineering/Secure%20Password%20Database/Secure%20Password%20Database.md) (Solved)**
-* Silent Stream (Unsolved)
+* **[Silent Stream](Reverse%20Engineering/Silent%20Stream/Silent%20Stream.md) (Solved)**
 * **[The Add/On Trap](Reverse%20Engineering/The%20Add-On%20Trap/The%20Add-On%20Trap.md) (Solved)**
 
 </details>
