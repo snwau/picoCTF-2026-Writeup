@@ -56,9 +56,9 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (6 solutions)</summary>
+  <summary>Reverse Engineering (8 solutions)</summary>
 
-* Autorev 1 (Unsolved)
+* **[Autorev 1](Reverse%20Engineering/Autorev%201/Autorev%201.md) (Solved)**
 * Binary Instruments 3 (Unsolved)
 * Binary Instruments 4 (Unsolved)
 * **[Bypass Me](Reverse%20Engineering/Bypass%20Me/Bypass%20Me.md) (Solved)**
