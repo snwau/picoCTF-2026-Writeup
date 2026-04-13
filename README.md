@@ -56,11 +56,11 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (9 solutions)</summary>
+  <summary>Reverse Engineering (10 solutions)</summary>
 
 * **[Autorev 1](Reverse%20Engineering/Autorev%201/Autorev%201.md) (Solved)**
 * **[Binary Instruments 3](Reverse%20Engineering/Binary%20Instrumentation%203/Binary%20Instrumentation%203.md) (Solved)**
-* Binary Instruments 4 (Unsolved)
+* **[Binary Instruments 4](Reverse%20Engineering/Binary%20Instrumentation%204/Binary%20Instrumentation%204.md) (Solved)**
 * **[Bypass Me](Reverse%20Engineering/Bypass%20Me/Bypass%20Me.md) (Solved)**
 * **[Gatekeeper](Reverse%20Engineering/Gatekeeper/Gatekeeper.md) (Solved)**
 * **[Hidden Cipher 1](Reverse%20Engineering/Hidden%20Cipher%201/Hidden%20Cipher%201.md) (Solved)**
