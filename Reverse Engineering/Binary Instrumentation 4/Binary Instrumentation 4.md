@@ -637,7 +637,9 @@ The critical `frida-trace` scripts (i.e. those that modify calls) to arrive to t
 - `inet_pton()`
 - `CompareStringA()`
 
-All other scripts were for instrumentation purposes to assist with arriving to the above solution.
+Also required for this solution is any TCP server that can accept data and respond, in my case I used the echo server example from https://www.cs.cmu.edu/afs/cs/academic/class/15213-f99/www/class26/tcpserver.c.
+
+All other `frida-trace` scripts were for instrumentation purposes to assist with arriving to the above solution.
 
 The flag is dropped in the created output file and base64 encoded.
 
