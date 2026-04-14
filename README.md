@@ -73,9 +73,18 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Web Exploitation (0 solutions)</summary>
+  <summary>Web Exploitation (2 solutions)</summary>
 
-* ? (Unsolved)
+* Credential Stuffing (Unsolved)
+* Fool the Lockout (Unsolved)
+* Hashgate (Unsolved)
+* No FA (Unsolved)
+* North-South (Unsolved)
+* **[Old Sessions](Web%20Exploitation/Old%20Sessions/Old%20Sessions.md) (Solved)**
+* ORDER ORDER (Unsolved)
+* paper-2 (Unsolved)
+* **[Secret Box](Web%20Exploitation/Secret%20Box/Secret%20Box.md) (Solved)**
+* Sql Map1 (Unsolved)
 
 </details>
 
